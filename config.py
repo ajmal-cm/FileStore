@@ -19,8 +19,8 @@ API_ID = ""
 API_HASH = ""
 WORKERS = 5
 
-DB_URI = "mongodb"
-DB_NAME = "yato"
+DB_URI = "mongodb+srv://acoolvoice03_db_user:mE571rr4kjkPUTkW@cluster0.t91uvkm.mongodb.net/"
+DB_NAME = "acoolvoice"
 
 FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
